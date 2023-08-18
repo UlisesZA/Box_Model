@@ -1,0 +1,17 @@
+.ejemplo-box{
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    background-color: lightcoral;
+    margin-top: 70px;
+    
+}
+
+.block-element {
+    display: block;
+    width: 200px;
+    height: 100px;
+    background-color: aliceblue;
+    border: 2px solid red;
+    padding: 10px;
+}
